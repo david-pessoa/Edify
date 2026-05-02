@@ -3,6 +3,9 @@
 ## Link na Internet
 [https://personal-7hm5whdd-dev.outsystems.app/Edify/Login](https://personal-7hm5whdd-dev.outsystems.app/Edify/Login)
 
+## Documentação do Projeto
+[Clique aqui para acessar a documentação do projeto](FIAP – Tech Challenge OutSystems.pdf)
+
 ## Integrantes do Projeto
 
 - BEATRIZ SANTOS MENDONÇA COSTA
