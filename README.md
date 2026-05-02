@@ -4,7 +4,7 @@
 [https://personal-7hm5whdd-dev.outsystems.app/Edify/Login](https://personal-7hm5whdd-dev.outsystems.app/Edify/Login)
 
 ## Documentação do Projeto
-[Clique aqui para acessar a documentação do projeto](FIAP – Tech Challenge OutSystems.pdf)
+[Clique aqui para acessar a documentação do projeto](FIAP–TechChallengeOutSystems.pdf)
 
 ## Integrantes do Projeto
 
